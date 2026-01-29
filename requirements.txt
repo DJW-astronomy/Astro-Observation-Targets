@@ -1,5 +1,5 @@
-astroquery
-pytz
-matplotlib
-pandas
-astropy
+astroquery==0.4.11
+pytz==2025.2
+matplotlib==3.10.6
+pandas==2.3.3
+astropy==7.1.1
